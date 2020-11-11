@@ -4,7 +4,7 @@ from tkinter import *
 # pip3 install tkmacosx
 from tkmacosx import *
 
-#Hello
+# Hello Mr Wagner
 
 classes = ['SDS A', 'Fundamentals C', 'CSP D', 'CSP E', 'APCS F']
 
